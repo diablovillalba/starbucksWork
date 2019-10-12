@@ -3,7 +3,7 @@ package com.automation.starbucks.pages;
 public class MyPageMonica {
 	/**
 	 * 
-	 * Comentario..
+	 * Comentario...----Validando
 	 * 
 	 * */
 
